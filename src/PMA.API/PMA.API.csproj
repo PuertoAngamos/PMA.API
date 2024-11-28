@@ -16,4 +16,9 @@
       <Folder Include="Mapping\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\PMA.Application\PMA.Application.csproj" />
+      <ProjectReference Include="..\PMA.Contracts\PMA.Contracts.csproj" />
+    </ItemGroup>
+
 </Project>

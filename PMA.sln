@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA.API", "PMA.API\PMA.API.csproj", "{86B3B007-9A34-47A6-8EB2-05CC9ED7EF4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA.API", "src\PMA.API\PMA.API.csproj", "{86B3B007-9A34-47A6-8EB2-05CC9ED7EF4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA.Application", "PMA.Application\PMA.Application.csproj", "{4C1E3092-9EE0-4D67-9673-88A30321B2AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA.Application", "src\PMA.Application\PMA.Application.csproj", "{4C1E3092-9EE0-4D67-9673-88A30321B2AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA.Contracts", "PMA.Contracts\PMA.Contracts.csproj", "{C921AAE6-DE12-4DB6-8F3A-5783BF788011}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA.Contracts", "src\PMA.Contracts\PMA.Contracts.csproj", "{C921AAE6-DE12-4DB6-8F3A-5783BF788011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
